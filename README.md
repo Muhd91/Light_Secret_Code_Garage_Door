@@ -1,3 +1,3 @@
 # Light_Secret_Code_Garage_Door
 Control system 
-This project focuses on building an interactive garage barrier control system with two methods. The first method uses the car's headlights high beam to generate a secret code considering the time of the illumination for long and short periods where the long period of illumination is considered to be (1), while the short period is considered to be (0), for simulation and research purposes, the secret code will be "short, short, long, short", which is implemented as "0010"). The second method employs a phone application that controls the barrier via the phone in the event of a failure of the car's headlights or other unforeseen circumstances.
+This project focuses on building an interactive garage barrier control system using light secret code.
